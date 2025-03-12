@@ -29,7 +29,7 @@ body                  {margin:0;
    .fa-bars{
                       }}
 
-@media screen and (max-width: 455px) {
+@media screen and (max-width: 405px) {
   .main-row .central-icons,.hire-me {
     display:none;}
   
